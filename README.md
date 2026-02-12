@@ -15,8 +15,6 @@ Weekly Updates → Transparency Visibility
 
 Taxonomy-controlled issues (no free text categories)
 
-Severity enum only → LOW | MEDIUM | HIGH
-
 One vote per issue per user (DB enforced)
 
 Monthly vote budget → 5 votes / user
