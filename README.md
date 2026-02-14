@@ -139,8 +139,6 @@ Avoids:
 
 Corruption claims
 
-Truth verification
-
 Enforcement authority behavior
 
 📈 Evolution Path
